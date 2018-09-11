@@ -1,6 +1,12 @@
-# Ap
+# Login App
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
+
+## How to run
+Download the project, open a command-line and navigate to the root directory of the project.
+Make sure that you have installed node.js and npm (latest version is preferable, > 6.0).
+run npm-install
+It will download the necessary dependencies and angular packages.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
