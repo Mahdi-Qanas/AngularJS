@@ -5,7 +5,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 ## How to run
 Download the project, open a command-line and navigate to the root directory of the project.
 Make sure that you have installed node.js and npm (latest version is preferable, > 6.0).
-run 'npm-install'
+run `npm install`
 to download the necessary dependencies and angular packages.
 
 ## Development server
